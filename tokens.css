@@ -1,9 +1,9 @@
 :root {
-  --background: #0e0f11;
-  --foreground: #ededed;
-  --muted: #8b909a;
-  --accent: #555c6a;
-  --line: rgba(237, 237, 237, 0.12);
+  --background: oklch(0.168 0.0045 264.4);
+  --foreground: oklch(0.946 0 0);
+  --muted: oklch(0.653 0.016 264.5);
+  --accent: oklch(0.474 0.024 264.3);
+  --line: oklch(0.946 0 0 / 12%);
 }
 
 @theme inline {
