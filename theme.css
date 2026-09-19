@@ -1,17 +1,10 @@
-:root {
-  --background: oklch(0.168 0.0045 264.4);
-  --foreground: oklch(0.946 0 0);
-  --muted: oklch(0.653 0.016 264.5);
-  --accent: oklch(0.474 0.024 264.3);
-  --line: oklch(0.946 0 0 / 12%);
-}
-
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
   --color-line: var(--line);
+  --color-cursor: var(--cursor-color);
 
   --font-sans: var(--font-outfit);
   --font-display: var(--font-outfit);

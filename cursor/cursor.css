@@ -1,0 +1,9 @@
+html[data-custom-cursor],
+html[data-custom-cursor] body {
+  cursor: none;
+}
+
+html[data-custom-cursor] a,
+html[data-custom-cursor] button {
+  cursor: pointer;
+}
