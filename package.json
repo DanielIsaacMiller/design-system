@@ -9,6 +9,7 @@
     "./theme.css": "./theme.css",
     "./brand": "./brand/brand.ts",
     "./brand/logo": "./brand/logo.tsx",
+    "./color": "./color/index.ts",
     "./cursor": "./cursor/index.tsx",
     "./cursor/cursor.css": "./cursor/cursor.css",
     "./components/*": "./components/*"
