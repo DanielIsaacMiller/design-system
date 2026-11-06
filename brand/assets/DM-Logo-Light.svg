@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="100%" height="100%" viewBox="0 0 4096 4096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 4096 4096" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1.055,0,0,1.055,-58.977379,-112.64)">
         <g transform="matrix(1,0,0,1,-81.730088,0)">
             <path d="M2680.065,1394.386C2676.362,1387.972 2676.362,1380.071 2680.065,1373.657C2694.964,1347.851 2732.531,1282.783 2732.531,1282.783C2759.307,1236.407 2826.246,1236.407 2853.022,1282.783L3696.465,2743.652C3723.248,2790.028 3689.752,2848 3636.222,2848L3468.169,2848C3461.628,2848 3455.647,2844.306 3452.718,2838.458C3449.789,2832.609 3450.414,2825.608 3454.332,2820.37C3470.146,2799.339 3474.087,2769.67 3459.067,2743.652C3459.067,2743.652 2752.543,1519.921 2680.065,1394.386Z" style="fill:rgb(21,21,21);"/>
